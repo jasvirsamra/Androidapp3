@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SpeedTracker New</string>
+    <string name="draggy">DRAGGY</string>
+
+    <string name="speed_label">%.2f</string>
+    <string name="mph">MPH</string>
+    <string name="kph">KPH</string>
+
+    <string name="switch_to_kph">Switch to KPH</string>
+    <string name="switch_to_mph">Switch to MPH</string>
+
+    <string name="start_run">Start ¼ Mile Run</string>
+    <string name="top_speed_1320">Top Speed (1320ft): %.2f</string>
+    <string name="top_speed_overall">Top Speed: %.2f</string>
+    <string name="distance_label">Distance: %1$.2f %2$s</string>
+    <string name="reset">Reset</string>
+
+    <string name="quarter_mile_started">Quarter Mile Run Started</string>
+    <string name="quarter_mile_finished">Quarter Mile Completed!</string>
+</resources>
